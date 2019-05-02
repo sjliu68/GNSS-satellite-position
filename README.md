@@ -4,7 +4,7 @@ Calculate satellite position from Rinex navigation file.
 
 Test on Rinex v2.10, v3.02 with GPS navigation file.
 
-# Requirements:
+# Requirements
     numpy
     argparse
     
