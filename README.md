@@ -1,4 +1,4 @@
-# GNSS-satellite-postion
+# GNSS-satellite-position
 
 Calculate satellite position from Rinex navigation file.
 
